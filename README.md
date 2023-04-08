@@ -1,0 +1,1 @@
+This repository consists of the initial codes I built for our machine learning project on "Biology sequence classification using Machine Learning Models" - This contains the features we plan to use over our machine learning model
